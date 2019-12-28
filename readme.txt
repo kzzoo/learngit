@@ -39,3 +39,7 @@ git checkout -- file命令中的--很重要，没有--，就变成了“切换�
 关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
 
 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
+
+19/12/28
+
+

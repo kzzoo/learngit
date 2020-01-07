@@ -40,6 +40,3 @@ git checkout -- file命令中的--很重要，没有--，就变成了“切换�
 
 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
 
-19/12/28
-
-CentOS
